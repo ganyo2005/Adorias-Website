@@ -1,0 +1,91 @@
+﻿SKU,Product,Category,Manufacturer provenance,Source
+CAM-0001,Canon EOS R,Cameras,CLOSED,https://acc-sfcc-service.canon-europe.com/3075C163/3075C163.html
+CAM-0002,Canon EOS RP,Cameras,CLOSED,https://tst-sfcc-service.canon-europe.com/3380C003/3380C003.html
+CAM-0003,Canon EOS R50,Cameras,CLOSED,https://sfcc-service.canon-europe.com/5811C003/5811C003.html
+CAM-0004,Canon EOS R5,Cameras,CLOSED,https://tst-sfcc-service.canon-europe.com/4147C005/4147C005.html
+CAM-0005,Canon EOS R5 Mark II,Cameras,CLOSED,https://sfcc-service.canon-europe.com/6536C006/6536C006.html
+CAM-0006,Canon EOS R6,Cameras,CLOSED,https://sfcc-service.canon-europe.com/4082C003/4082C003.html
+CAM-0007,Canon EOS R6 Mark II,Cameras,CLOSED,https://sfcc-service.canon-europe.com/5666C004/5666C004.html
+CAM-0008,Canon EOS 60D,Cameras,CLOSED,https://www.usa.canon.com/support/p/eos-60d
+CAM-0009,Canon 70D,Cameras,CLOSED,https://www.usa.canon.com/support/p/eos-70d
+CAM-0010,Canon 6D,Cameras,CLOSED,https://www.usa.canon.com/support/p/eos-6d
+CAM-0011,Canon EOS 6D Mark II,Cameras,CLOSED,https://www.canon-europe.com/media/EOS_6D_Mark_II_PR_Spec_Sheet_EM_Final_tcm13-1580718.pdf
+CAM-0012,Canon 7D,Cameras,CLOSED,https://www.usa.canon.com/support/p/eos-7d
+CAM-0013,Canon 7D Mark II,Cameras,CLOSED,https://www.usa.canon.com/support/p/eos-7d-mark-ii
+CAM-0014,Canon 5D Mark II,Cameras,CLOSED,https://www.usa.canon.com/support/p/eos-5d-mark-ii
+CAM-0015,Canon 5D Mark III,Cameras,CLOSED,https://www.usa.canon.com/support/p/eos-5d-mark-iii
+CAM-0016,Canon EOS 5D Mark IV,Cameras,CLOSED,https://sfcc-service.canon-europe.com/1483C025/1483C025.html
+CAM-0017,Canon 700D,Cameras,CLOSED,https://developercommunity.usa.canon.com/resource/1670450894000/CDC_EDSDKRAW_Compat_List
+CAM-0018,Canon 600D,Cameras,CLOSED,https://www.usa.canon.com/support/p/rebel-t3i
+VID-0001,Canon XA10,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/xa10
+VID-0002,Canon XA11,Video Cameras,CLOSED,https://www.canon-europe.com/media/XA15_and_XA11_Specifications_EM_tcm13-1609490.pdf
+VID-0003,Canon XA15,Video Cameras,CLOSED,https://www.canon-europe.com/media/XA15_and_XA11_Specifications_EM_tcm13-1609490.pdf
+VID-0004,Canon XA20,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/xa20
+VID-0005,Canon XA25,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/xa25
+VID-0006,Canon XA30,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/xa30
+VID-0007,Canon XA35,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/xa35
+VID-0008,Canon XA40,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/xa40
+VID-0009,Canon XA45,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/xa45
+VID-0010,Canon XA60,Video Cameras,CLOSED,https://sfcc-service.canon-europe.com/5733C003/5733C003.html
+VID-0011,Canon XA65,Video Cameras,CLOSED,https://sfcc-service.canon-europe.com/5732C003/5732C003.html
+VID-0012,Canon HF G30,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/hfg30
+VID-0013,Canon HF G40,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/vixia-hf-g40
+VID-0014,Canon HF G50,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/vixia-hf-g50
+VID-0015,Canon XF105,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/xf105
+VID-0016,Canon XF205,Video Cameras,CLOSED,https://www.usa.canon.com/support/p/xf205
+CAM-0019,Nikon D90,Cameras,CLOSED,https://www.nikonusa.com/p/d90/25446/overview
+CAM-0020,Nikon D3100,Cameras,CLOSED,https://www.nikonusa.com/p/d3100/25472/overview
+CAM-0021,Nikon D3200,Cameras,CLOSED,https://www.nikonusa.com/pdf/manuals/dslr/D3200UM_EU%2811%2901.pdf
+CAM-0022,Nikon D3300,Cameras,CLOSED,https://www.nikonusa.com/p/d3300/V1532/overview
+CAM-0023,Nikon D3400,Cameras,CLOSED,https://www.nikonusa.com/p/d3400/V1569/overview
+CAM-0024,Nikon D3500,Cameras,CLOSED,https://www.nikonusa.com/p/d3500/D3500/overview
+CAM-0025,Nikon D5100,Cameras,CLOSED,https://www.nikonusa.com/p/d5100/25476/overview
+CAM-0026,Nikon D5200,Cameras,CLOSED,https://www.nikonusa.com/p/d5200/1501/overview
+CAM-0027,Nikon D5300,Cameras,CLOSED,https://www.nikonusa.com/p/d5300-refurbished/1519B/overview
+CAM-0028,Nikon D5500,Cameras,CLOSED,https://www.nikonusa.com/p/d5500/1544/overview
+CAM-0029,Nikon D5600,Cameras,CLOSED,https://www.nikonusa.com/p/d5600/1576/overview
+CAM-0030,Nikon D7000,Cameras,CLOSED,https://www.nikonusa.com/p/d7000/25468/overview
+CAM-0031,Nikon D7100,Cameras,CLOSED,https://www.nikonusa.com/p/d7100/1513/overview
+CAM-0032,Nikon D7200,Cameras,CLOSED,https://www.nikonusa.com/p/d7200/1554/overview
+CAM-0033,Nikon D7500,Cameras,CLOSED,https://www.nikonusa.com/p/d7500/1582/overview
+CAM-0034,Nikon D750,Cameras,CLOSED,https://www.nikonusa.com/p/d750/1543/overview
+CAM-0035,Nikon D810,Cameras,CLOSED,https://www.nikonusa.com/p/d810/1542/overview
+CAM-0036,Nikon D850,Cameras,CLOSED,https://www.nikonusa.com/p/d850/1585/overview
+CAM-0037,Nikon Z50,Cameras,CLOSED,https://www.nikonusa.com/p/z-50/1634/overview
+CAM-0038,Nikon Z50 II,Cameras,CLOSED,https://www.nikonusa.com/p/z50ii/1784/overview
+CAM-0039,Nikon Z5,Cameras,CLOSED,https://www.nikonusa.com/p/z-5/1649/overview
+CAM-0040,Nikon Z5 II,Cameras,CLOSED,https://www.nikonusa.com/p/z5ii/1688/overview
+CAM-0041,Nikon Z6,Cameras,CLOSED,https://www.nikonusa.com/p/z-6/1595/overview
+CAM-0042,Nikon Z 6II,Cameras,CLOSED,https://www.nikonusa.com/p/z-6ii/1663/overview
+CAM-0043,Nikon Z6III,Cameras,CLOSED,https://www.nikonusa.com/p/z6iii/1892/overview
+CAM-0044,Sony Alpha 7 III (ILCE-7M3),Cameras,CLOSED,https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7m3m/specifications
+CAM-0045,Sony Alpha 7R II (ILCE-7RM2),Cameras,CLOSED,https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm2/specifications
+CAM-0046,Sony Alpha 7R III (ILCE-7RM3),Cameras,CLOSED,https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7rm3/specifications
+CAM-0047,Sony Alpha 6500 (ILCE-6500),Cameras,CLOSED,https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6500/specifications
+VID-0017,Sony HXR-MC2500,Video Cameras,CLOSED,https://www.sony.com/electronics/support/product/hxr-mc2500
+VID-0019,Sony HXR-NX5 / NX5R,Video Cameras,CLOSED,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/hxr-nx5r
+VID-0020,Sony HXR-NX70P,Video Cameras,CLOSED,https://pro.sony/s3/cms-static-content/operation-manual/4273940131.pdf
+VID-0021,Sony HXR-NX80,Video Cameras,CLOSED,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/hxr-nx80
+VID-0022,Sony PXW-X70,Video Cameras,CLOSED,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-x70
+VID-0023,Sony PXW-Z90,Video Cameras,CLOSED,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-z90v
+VID-0024,Sony PXW-Z100,Video Cameras,CLOSED,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-z100
+VID-0025,Sony PXW-Z150,Video Cameras,CLOSED,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-z150
+VID-0026,Sony PXW-Z190,Video Cameras,CLOSED,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-z190v
+VID-0027,Sony PXW-Z200,Video Cameras,CLOSED,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-z200
+VID-0034,Sony SR500,Video Cameras,CLOSED,https://www.sony.com/electronics/support/hard-drive-camcorders-hdr-xr-series/hdr-xr500
+VID-0035,Sony HXR-MC50P,Video Cameras,CLOSED,https://pro.sony/support/res/manuals/4191/41917941M.pdf
+CAM-0048,Panasonic Lumix GH4,Cameras,CLOSED,https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/
+CAM-0049,Panasonic Lumix GH5,Cameras,CLOSED,https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/
+CAM-0050,Panasonic Lumix GH5 II,Cameras,CLOSED,https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-model-dc-gh5m2/
+CAM-0051,Panasonic Lumix GH6,Cameras,CLOSED,https://help.na.panasonic.com/answers/specifications-sheet-for-lumix-g-series-dc-gh6/
+CAM-0052,Blackmagic Pocket Cinema Camera 4K,Cameras,CLOSED,https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs
+CAM-0053,Blackmagic BMPCC 6K,Cameras,CLOSED,https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs
+CAM-0054,Blackmagic Pocket Cinema Camera 6K G2,Cameras,CLOSED,https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs
+CAM-0055,Blackmagic Pocket Cinema Camera 6K Pro,Cameras,CLOSED,https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/techspecs
+VID-0018,Sony HXR-NX100,Video Cameras,CLOSED,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/hxr-nx100
+VID-0028,Sony PXW-Z280,Video Cameras,CLOSED,https://www.sony.com/electronics/support/software/00379238
+VID-0029,Sony FDR-AXP35P,Video Cameras,CLOSED,https://www.sony.com/electronics/support/downloads/W0010789
+VID-0030,Sony AX30,Video Cameras,CLOSED,https://www.sony.com/electronics/support/downloads/W0010789
+VID-0031,Sony SR11,Video Cameras,CLOSED,https://www.sony.com/electronics/support/hard-drive-camcorders-hdr-sr-series/hdr-sr11
+VID-0032,Sony SR12,Video Cameras,CLOSED,https://www.sony.com/electronics/support/hard-drive-camcorders-hdr-sr-series/hdr-sr12
+VID-0033,Sony SR550,Video Cameras,CLOSED,https://www.sony.com/electronics/support/hard-drive-camcorders-hdr-xr-series/hdr-xr550

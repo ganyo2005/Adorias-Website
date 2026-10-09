@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Adorias Enterprise — photographic, video, audio and studio equipment in Accra, Ghana.">
+  <title>Adorias Enterprise | Equip Your Vision</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body><canvas id="motionCanvas" aria-hidden="true"></canvas><div class="cursorGlow" aria-hidden="true"></div>
+  <div class="topbar">Tudu, Accra · Opposite Central Mosque <span>Mon–Sat 8:30 AM–6:00 PM</span></div>
+
+  <header class="nav">
+    <a class="brand" href="#home"><img class="brandLogo" src="assets/adorias-logo.jpg" alt="Adorias Enterprise logo"><span>ADORIAS<small>ENTERPRISE</small></span></a>
+    <button class="menuBtn" aria-label="Open menu">☰</button>
+    <nav id="mainNav">
+      <a href="#shop">Shop</a><a href="#brands">Brands</a><a href="#videos">Videos</a>
+      <a href="#special">Special Orders</a><a href="#about">About</a><a href="#contact">Contact</a>
+    </nav>
+    <div class="actions">
+      <button id="searchBtn" title="Search">⌕</button>
+      <button id="accountBtn" title="Account">♙</button>
+      <button id="cartBtn" title="Cart">Bag <b id="cartCount">0</b></button>
+    </div>
+  </header>
+<section class="dynamicHome" aria-label="Adorias highlights">
+  <div class="motionGlow motionGlowA"></div><div class="motionGlow motionGlowB"></div>
+  <div class="dynamicHomeInner">
+    <div class="dynamicEyebrow">Professional Imaging • Production • Creator Gear</div>
+    <h2 class="dynamicTitle">Find the right gear. <span>Build the right setup.</span></h2>
+    <p class="dynamicCopy">Explore cameras, video, lenses, lighting, audio and production equipment — with Efia available to guide beginners and professionals.</p>
+    <div class="motionChips" aria-label="Popular departments">
+      <span>Cameras & Video</span><span>Lenses</span><span>Lighting & Studio</span>
+      <span>Audio</span><span>Live Production</span><span>Drones & Gimbals</span>
+    </div>
+  </div>
+</section>
+
+
+  <main>
+    <section class="hero" id="home">
+      <div class="heroGlow"></div>
+      <div class="eyebrow">PHOTOGRAPHY · VIDEO · AUDIO · STUDIO</div>
+      <h1>EQUIP<br><em>YOUR VISION.</em></h1>
+      <p>Professional imaging and production equipment for creators, studios, churches, media houses and businesses across Ghana.</p>
+      <div class="ctaRow">
+        <a class="btn primary" href="#shop">Shop equipment →</a>
+        <a class="btn ghost" href="https://wa.me/233249220653" target="_blank" rel="noopener">WhatsApp us</a>
+      </div>
+      <div class="heroStats"><div><strong>Accra</strong><span>Delivery & pickup</span></div></div>
+    </section>
+
+    <section class="section" id="shop">
+      <div class="sectionHead"><div><span class="eyebrow">THE ADORIAS CATALOGUE</span><h2>Shop by category</h2></div><a href="#products">View all products →</a></div>
+      <div class="categories" id="categoryGrid"></div>
+    </section>
+
+    <section class="section dark" id="products">
+      <div class="sectionHead">
+        <div><span class="eyebrow">FIND THE RIGHT EQUIPMENT</span><h2>Explore the catalogue</h2></div>
+        <div class="catalogueTools">
+          <input id="catalogueSearch" class="catalogueSearch" type="search" placeholder="Search products, brands or models…">
+          <div class="filters" id="customerFilters">
+<button class="active" data-filter="All">All gear</button>
+<button data-filter="Cameras & Video">Cameras & Video</button>
+<button data-filter="Lenses">Lenses</button>
+<button data-filter="Lighting & Studio">Lighting & Studio</button>
+<button data-filter="Audio">Audio</button>
+<button data-filter="Live Production">Live Production</button>
+<button data-filter="Tripods & Support">Tripods & Support</button>
+<button data-filter="Accessories">Accessories</button>
+</div>
+        </div>
+      </div>
+      <div id="brandFilterBar" class="brandFilterBar" aria-label="Filter products by brand"></div><div class="productGrid" id="productGrid"></div>
+    </section>
+
+    <section class="split section" id="special">
+      <div class="specialVisual"><span>SPECIAL<br>ORDER</span></div>
+      <div class="specialCopy"><span class="eyebrow">CAN'T FIND IT?</span><h2>We'll help you source it.</h2><p>Tell us the exact equipment you need. Special orders are subject to supplier availability and may require a down payment.</p>
+      <button class="btn primary" id="specialBtn">Request special order →</button></div>
+    </section>
+
+    <section class="section" id="brands">
+      <span class="eyebrow">TRUSTED NAMES</span><h2>Brands we deal in</h2>
+      <div class="brands"><span>Blackmagic Design</span><span>BOYA</span><span>Canon</span><span>DJI</span><span>Epson</span><span>Godox</span><span>JMARY</span><span>Nikon</span><span>Panasonic</span><span>Perfect</span><span>SanDisk</span><span>Sennheiser</span><span>Shure</span><span>Sigma</span><span>Sony</span><span>Tamron</span><span>Viltrox</span><span>Weifeng</span><span>Yongnuo</span><span>Zoom</span></div>
+    </section>
+
+    <section class="section dark" id="videos">
+      <div class="sectionHead"><div><span class="eyebrow">WATCH & LEARN</span><h2>Product demonstrations</h2></div></div>
+      <div class="videoGrid"><article><div class="videoThumb">▶</div><h3>Camera guides & demonstrations</h3><p>Product walkthroughs are coming soon.</p></article><article><div class="videoThumb alt">▶</div><h3>Lighting setups</h3><p>Learn how to build better studio setups.</p></article><article><div class="videoThumb alt2">▶</div><h3>Production workflows</h3><p>Switchers, video and streaming equipment.</p></article></div>
+    </section>
+
+    <section class="section about" id="about">
+      <div><span class="eyebrow">ABOUT ADORIAS</span><h2>Built for people who create.</h2></div>
+      <div><p>Adorias Enterprise is a dealer in photographic materials, imports & exports, manufacturer representation and general merchandise.</p><p>From first-time creators to professional photographers, production companies, schools, churches and media houses, we help customers find the right tools for the job.</p></div>
+    </section>
+
+    <section class="contact section" id="contact">
+      <span class="eyebrow">VISIT OR TALK TO US</span><h2>Tudu, Accra.<br><em>Opposite Central Mosque.</em></h2>
+      <div class="contactGrid"><div><small>CALL / WHATSAPP</small><strong>024 922 0653</strong></div><div><small>OPEN</small><strong>Mon–Sat · 8:30 AM–6:00 PM</strong></div><div><small>FULFILMENT</small><strong>Accra Pick up and Nationwide Delivery</strong></div></div>
+      <a class="btn primary" href="https://wa.me/233249220653" target="_blank" rel="noopener">Start a WhatsApp conversation →</a>
+    </section>
+  
+<section class="accountPreview" id="accountPreview">
+ <div class="accountPreviewInner">
+  <div>
+   <div class="dynamicEyebrow">COMING ACCOUNT EXPERIENCE</div>
+   <h2>Your Adorias account, built around your gear.</h2>
+   <p>Create a profile to keep purchases, delivery progress, saved gear and support information in one place.</p>
+  </div>
+  <div class="accountFeatureGrid">
+   <article><strong>Order history</strong><span>Past purchases and order details.</span></article>
+   <article><strong>Delivery tracking</strong><span>Shipment status and nationwide delivery updates once courier tracking is connected.</span></article>
+   <article><strong>My Gear</strong><span>Save owned cameras and equipment so Efia can recommend compatible accessories.</span></article>
+   <article><strong>Saved products</strong><span>Wishlist and recently considered equipment.</span></article>
+   <article><strong>Compatibility help</strong><span>Efia can use your saved gear when diagnosing batteries, chargers, lenses and accessories.</span></article>
+   <article><strong>Receipts & support</strong><span>Keep purchase references and support information accessible.</span></article>
+  </div>
+  <button class="accountPreviewBtn" type="button" disabled aria-disabled="true">Customer accounts — backend connection pending</button>
+ </div>
+</section>
+
+</main>
+
+  <footer><div class="brand"><img class="brandLogo" src="assets/adorias-logo.jpg" alt="Adorias Enterprise logo"><span>ADORIAS<small>ENTERPRISE</small></span></div><p>Dealers in Photographic Materials, Imports & Export<br>Manufacturer Representative & General Merchants</p><p>© <span id="year"></span> Adorias Enterprise.</p></footer>
+
+  <button class="efiaFab" id="efiaBtn"><span>✦</span> Ask Efia</button>
+
+  <div class="overlay" id="overlay"></div>
+  <aside class="drawer" id="cartDrawer"><button class="close">×</button><span class="eyebrow">YOUR ORDER</span><h2>Shopping bag</h2><div id="cartItems"></div><div class="cartBottom"><div class="total"><span>Subtotal</span><strong id="cartTotal">GH₵ —</strong></div><p>Delivery fee is confirmed based on your location.</p><button class="btn primary full">Continue to checkout</button><button class="btn ghost full" id="whatsappCart">Send order on WhatsApp</button></div></aside>
+
+  <aside class="drawer efia" id="efiaDrawer"><button class="close">×</button><div class="efiaHead"><div class="avatar">E</div><div><strong>Efia</strong><small>Adorias Product Assistant · Online</small></div></div><div class="chat" id="chat"><div class="bubble bot">Hi! I'm Efia ✦. Tell me what equipment you're looking for, what you'll use it for, or your budget.</div></div><div class="quick"><button>Camera</button><button>Lighting</button><button>Livestreaming</button><button>Studio setup</button></div><form id="chatForm"><input id="chatInput" placeholder="Ask Efia about equipment…" autocomplete="off"><button>↑</button></form></aside>
+
+  <dialog id="specialModal"><button class="modalClose" type="button">×</button><span class="eyebrow">SPECIAL ORDER</span><h2>Request equipment</h2><p>We'll confirm supplier availability, pricing and any required down payment.</p><form id="specialForm"><label>Name<input name="name" required></label><label>Phone / WhatsApp<input name="phone" required></label><label>Brand / model<input name="brand_model" required placeholder="e.g. Sony FX3"></label><label>Quantity<input name="quantity" type="number" min="1" value="1"></label><label>Notes<textarea name="notes" placeholder="Tell us anything else we should know"></textarea></label><p id="specialFormStatus" role="status"></p><button class="btn primary">Prepare WhatsApp request →</button></form></dialog>
+
+  <script defer src="http://localhost:8000/api/catalogue.js"></script><script defer src="app.js"></script>
+<dialog id="productModal" class="productModal"><button class="modalClose productModalClose" onclick="this.closest('dialog').close()">×</button><div id="productModalContent"></div></dialog>
+<div id="productDetailModal" class="productDetailModal" aria-hidden="true">
+  <div class="productDetailBackdrop" data-close-detail></div>
+  <article class="productDetailPanel" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+    <button class="productDetailClose" type="button" data-close-detail aria-label="Close product details">×</button>
+    <div id="productDetailContent"></div>
+  </article>
+</div>
+
+<button id="efiaFloatingLauncher" class="efiaFloatingLauncher" aria-label="Ask Efia" aria-expanded="false">
+  <span class="efiaPulse" aria-hidden="true"></span>
+  <span class="efiaFloatIcon">E</span>
+  <span class="efiaFloatText"><strong>Ask Efia</strong><small>Need help choosing?</small></span>
+</button>
+<div id="efiaFloatingHint" class="efiaFloatingHint">Tell Efia what you want to do — even if you don't know the technical terms. Efia can build your complete setup.</div>
+
+</body>
+</html>

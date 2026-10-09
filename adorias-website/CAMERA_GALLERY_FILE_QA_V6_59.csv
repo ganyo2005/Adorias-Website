@@ -1,0 +1,122 @@
+﻿SKU,Product,Image,File QA,Dimensions
+CAM-0001,Canon EOS R,assets/products/canon-eos-r/cam-0001-1.jpg,OK,3413x1792
+CAM-0001,Canon EOS R,assets/products/canon-eos-r/cam-0001-2.jpg,OK,750x750
+CAM-0002,Canon EOS RP,assets/products/canon-eos-rp/cam-0002-1.jpg,OK,750x750
+CAM-0003,Canon EOS R50,assets/products/canon-eos-r50/cam-0003-1.jpg,OK,750x750
+CAM-0003,Canon EOS R50,assets/products/canon-eos-r50/cam-0003-2.jpg,OK,750x750
+CAM-0003,Canon EOS R50,assets/products/canon-eos-r50/cam-0003-3.jpg,OK,750x750
+CAM-0004,Canon EOS R5,assets/products/canon-eos-r5/cam-0004-1.jpg,OK,3428x1800
+CAM-0004,Canon EOS R5,assets/products/canon-eos-r5/cam-0004-2.webp,OK,1000x1000
+CAM-0005,Canon EOS R5 Mark II,assets/products/canon-eos-r5-mark-ii/cam-0005-1.jpg,OK,700x700
+CAM-0006,Canon EOS R6,assets/products/canon-eos-r6/cam-0006-1.jpg,OK,750x750
+CAM-0007,Canon EOS R6 Mark II,assets/products/canon-eos-r6-mark-ii/cam-0007-1.jpg,OK,750x750
+CAM-0007,Canon EOS R6 Mark II,assets/products/canon-eos-r6-mark-ii/cam-0007-2.jpg,OK,750x750
+CAM-0008,Canon EOS 60D,assets/products/canon-eos-60d/cam-0008-1.jpg,OK,500x500
+CAM-0009,Canon 70D,assets/products/canon-70d/cam-0009-1.jpg,OK,750x750
+CAM-0009,Canon 70D,assets/products/canon-70d/cam-0009-2.jpg,OK,750x750
+CAM-0010,Canon 6D,assets/products/canon-6d/cam-0010-1.jpg,OK,750x750
+CAM-0010,Canon 6D,assets/products/canon-6d/cam-0010-2.jpg,OK,750x750
+CAM-0011,Canon EOS 6D Mark II,assets/products/canon-eos-6d-mark-ii/cam-0011-1.jpg,OK,750x750
+CAM-0011,Canon EOS 6D Mark II,assets/products/canon-eos-6d-mark-ii/cam-0011-2.jpg,OK,750x750
+CAM-0011,Canon EOS 6D Mark II,assets/products/canon-eos-6d-mark-ii/cam-0011-3.jpg,OK,750x750
+CAM-0012,Canon 7D,assets/products/canon-7d/cam-0012-1.jpg,OK,750x750
+CAM-0013,Canon 7D Mark II,assets/products/canon-7d-mark-ii/cam-0013-1.jpg,OK,750x750
+CAM-0013,Canon 7D Mark II,assets/products/canon-7d-mark-ii/cam-0013-2.jpg,OK,750x750
+CAM-0014,Canon 5D Mark II,assets/products/canon-5d-mark-ii/cam-0014-1.jpg,OK,750x750
+CAM-0014,Canon 5D Mark II,assets/products/canon-5d-mark-ii/cam-0014-2.jpg,OK,750x750
+CAM-0014,Canon 5D Mark II,assets/products/canon-5d-mark-ii/cam-0014-3.jpg,OK,750x750
+CAM-0014,Canon 5D Mark II,assets/products/canon-5d-mark-ii/cam-0014-4.jpg,OK,750x750
+CAM-0015,Canon 5D Mark III,assets/products/canon-5d-mark-iii/cam-0015-1.jpg,OK,750x750
+CAM-0015,Canon 5D Mark III,assets/products/canon-5d-mark-iii/cam-0015-2.jpg,OK,750x750
+CAM-0016,Canon EOS 5D Mark IV,assets/products/canon-eos-5d-mark-iv/cam-0016-1.jpg,OK,617x324
+CAM-0016,Canon EOS 5D Mark IV,assets/products/canon-eos-5d-mark-iv/cam-0016-2.webp,OK,945x623
+CAM-0017,Canon 700D,assets/products/canon-700d/cam-0017-1.webp,OK,2048x1364
+CAM-0018,Canon 600D,assets/products/canon-600d/cam-0018-1.jpg,OK,900x675
+VID-0001,Canon XA10,assets/products/canon-xa10/vid-0001-1.jpg,OK,1600x1066
+VID-0002,Canon XA11,assets/products/canon-xa11/vid-0002-1.jpg,OK,750x750
+VID-0003,Canon XA15,assets/products/canon-xa15/vid-0003-1.jpg,OK,500x500
+VID-0004,Canon XA20,assets/products/canon-xa20/vid-0004-1.jpg,OK,495x495
+VID-0005,Canon XA25,assets/products/canon-xa25/vid-0005-1.jpg,OK,750x750
+VID-0006,Canon XA30,assets/products/canon-xa30/vid-0006-1.webp,OK,1000x1000
+VID-0007,Canon XA35,assets/products/canon-xa35/vid-0007-1.webp,OK,700x700
+VID-0008,Canon XA40,assets/products/canon-xa40/vid-0008-1.jpg,OK,250x250
+VID-0009,Canon XA45,assets/products/canon-xa45/vid-0009-1.avif,OK,2000x2000
+VID-0010,Canon XA60,assets/products/canon-xa60/vid-0010-1.jpg,OK,2857x1500
+VID-0011,Canon XA65,assets/products/canon-xa65/vid-0011-1.jpg,OK,750x750
+VID-0011,Canon XA65,assets/products/canon-xa65/vid-0011-2.jpg,OK,750x750
+VID-0012,Canon HF G30,assets/products/canon-hf-g30/vid-0012-1.jpg,OK,495x495
+VID-0013,Canon HF G40,assets/products/canon-hf-g40/vid-0013-1.jpg,OK,495x495
+VID-0014,Canon HF G50,assets/products/canon-hf-g50/vid-0014-1.jpg,OK,1600x1280
+VID-0015,Canon XF105,assets/products/canon-xf105/vid-0015-1.jpg,OK,750x750
+VID-0016,Canon XF205,assets/products/canon-xf205/vid-0016-1.webp,OK,1000x1000
+CAM-0019,Nikon D90,assets/products/nikon-d90/cam-0019-1.jpg,OK,500x500
+CAM-0020,Nikon D3100,assets/products/nikon-d3100/cam-0020-1.avif,OK,2000x2000
+CAM-0020,Nikon D3100,assets/products/nikon-d3100/cam-0020-2.jpg,OK,1450x1153
+CAM-0021,Nikon D3200,assets/products/nikon-d3200/cam-0021-1.jpg,OK,1600x1600
+CAM-0022,Nikon D3300,assets/products/nikon-d3300/cam-0022-1.jpg,OK,500x500
+CAM-0023,Nikon D3400,assets/products/nikon-d3400/cam-0023-1.jpg,OK,495x495
+CAM-0023,Nikon D3400,assets/products/nikon-d3400/cam-0023-2.jpg,OK,750x750
+CAM-0024,Nikon D3500,assets/products/nikon-d3500/cam-0024-1.jpg,OK,500x500
+CAM-0025,Nikon D5100,assets/products/nikon-d5100/cam-0025-1.jpg,OK,1600x1600
+CAM-0026,Nikon D5200,assets/products/nikon-d5200/cam-0026-1.jpg,OK,4864x3648
+CAM-0027,Nikon D5300,assets/products/nikon-d5300/cam-0027-1.jpg,OK,750x750
+CAM-0028,Nikon D5500,assets/products/nikon-d5500/cam-0028-1.jpg,OK,750x750
+CAM-0029,Nikon D5600,assets/products/nikon-d5600/cam-0029-1.jpg,OK,750x750
+CAM-0030,Nikon D7000,assets/products/nikon-d7000/cam-0030-1.jpg,OK,750x750
+CAM-0031,Nikon D7100,assets/products/nikon-d7100/cam-0031-1.jpg,OK,750x750
+CAM-0032,Nikon D7200,assets/products/nikon-d7200/cam-0032-1.jpg,OK,750x750
+CAM-0033,Nikon D7500,assets/products/nikon-d7500/cam-0033-1.jpg,OK,750x750
+CAM-0033,Nikon D7500,assets/products/nikon-d7500/cam-0033-2.jpg,OK,750x750
+CAM-0034,Nikon D750,assets/products/nikon-d750/cam-0034-1.jpg,OK,750x750
+CAM-0035,Nikon D810,assets/products/nikon-d810/cam-0035-1.jpg,OK,750x750
+CAM-0036,Nikon D850,assets/products/nikon-d850/cam-0036-1.jpg,OK,750x750
+CAM-0037,Nikon Z50,assets/products/nikon-z50/cam-0037-1.jpg,OK,500x500
+CAM-0038,Nikon Z50 II,assets/products/nikon-z50-ii/cam-0038-1.jpg,OK,750x750
+CAM-0039,Nikon Z5,assets/products/nikon-z5/cam-0039-1.jpg,OK,750x750
+CAM-0040,Nikon Z5 II,assets/products/nikon-z5-ii/cam-0040-1.jpg,OK,750x750
+CAM-0041,Nikon Z6,assets/products/nikon-z6/cam-0041-1.jpg,OK,750x750
+CAM-0042,Nikon Z 6II,assets/products/nikon-z-6ii/cam-0042-1.jpg,OK,750x750
+CAM-0042,Nikon Z 6II,assets/products/nikon-z-6ii/cam-0042-2.jpg,OK,500x500
+CAM-0043,Nikon Z6III,assets/products/nikon-z6iii/cam-0043-1.jpg,OK,500x500
+CAM-0044,Sony Alpha 7 III (ILCE-7M3),assets/products/sony-alpha-7-iii-ilce-7m3/cam-0044-1.jpg,OK,3000x1950
+CAM-0045,Sony Alpha 7R II (ILCE-7RM2),assets/products/sony-alpha-7r-ii-ilce-7rm2/cam-0045-1.jpg,OK,750x750
+CAM-0045,Sony Alpha 7R II (ILCE-7RM2),assets/products/sony-alpha-7r-ii-ilce-7rm2/cam-0045-2.jpg,OK,750x750
+CAM-0045,Sony Alpha 7R II (ILCE-7RM2),assets/products/sony-alpha-7r-ii-ilce-7rm2/cam-0045-3.jpg,OK,750x750
+CAM-0046,Sony Alpha 7R III (ILCE-7RM3),assets/products/sony-alpha-7r-iii-ilce-7rm3/cam-0046-1.jpg,OK,750x750
+CAM-0047,Sony Alpha 6500 (ILCE-6500),assets/products/sony-alpha-6500-ilce-6500/cam-0047-1.jpg,OK,750x750
+VID-0017,Sony HXR-MC2500,assets/products/sony-hxr-mc2500/vid-0017-1.jpeg,OK,1598x1214
+VID-0019,Sony HXR-NX5 / NX5R,assets/products/sony-hxr-nx5-nx5r/vid-0019-1.webp,OK,720x540
+VID-0020,Sony HXR-NX70P,assets/products/sony-hxr-nx70p/vid-0020-1.jpg,OK,795x795
+VID-0021,Sony HXR-NX80,assets/products/sony-hxr-nx80/vid-0021-1.jpg,OK,500x500
+VID-0022,Sony PXW-X70,assets/products/sony-pxw-x70/vid-0022-1.jpg,OK,795x795
+VID-0022,Sony PXW-X70,assets/products/sony-pxw-x70/vid-0022-2.jpg,OK,750x750
+VID-0023,Sony PXW-Z90,assets/products/sony-pxw-z90/vid-0023-1.avif,OK,573x573
+VID-0024,Sony PXW-Z100,assets/products/sony-pxw-z100/vid-0024-1.jpg,OK,595x595
+VID-0025,Sony PXW-Z150,assets/products/sony-pxw-z150/vid-0025-1.jpg,OK,750x750
+VID-0026,Sony PXW-Z190,assets/products/sony-pxw-z190/vid-0026-1.jpg,OK,500x500
+VID-0027,Sony PXW-Z200,assets/products/sony-pxw-z200/vid-0027-1.jpg,OK,500x500
+VID-0034,Sony SR500,assets/products/sony-sr500/vid-0034-1.avif,OK,600x600
+VID-0035,Sony HXR-MC50P,assets/products/sony-hxr-mc50p/vid-0035-1.jpg,OK,1600x968
+CAM-0048,Panasonic Lumix GH4,assets/products/panasonic-lumix-gh4/cam-0048-1.jpg,OK,750x750
+CAM-0049,Panasonic Lumix GH5,assets/products/panasonic-lumix-gh5/cam-0049-1.jpg,OK,750x750
+CAM-0050,Panasonic Lumix GH5 II,assets/products/panasonic-lumix-gh5-ii/cam-0050-1.jpg,OK,750x750
+CAM-0051,Panasonic Lumix GH6,assets/products/panasonic-lumix-gh6/cam-0051-1.jpg,OK,500x500
+CAM-0052,Blackmagic Pocket Cinema Camera 4K,assets/products/blackmagic-pocket-cinema-camera-4k/cam-0052-1.jpg,OK,750x750
+CAM-0053,Blackmagic BMPCC 6K,assets/products/blackmagic-bmpcc-6k/cam-0053-1.jpg,OK,750x750
+CAM-0054,Blackmagic Pocket Cinema Camera 6K G2,assets/products/blackmagic-pocket-cinema-camera-6k-g2/cam-0054-1.jpg,OK,750x750
+CAM-0055,Blackmagic Pocket Cinema Camera 6K Pro,assets/products/blackmagic-pocket-cinema-camera-6k-pro/cam-0055-1.jpg,OK,3474x1824
+VID-0018,Sony HXR-NX100,assets/products/sony-hxr-nx100/vid-0018-1.jpg,OK,750x750
+VID-0028,Sony PXW-Z280,assets/products/sony-pxw-z280/vid-0028-1.jpg,OK,500x500
+VID-0029,Sony FDR-AXP35P,assets/products/sony-fdr-axp35p/vid-0029-1.jpg,OK,2432x1824
+VID-0030,Sony AX30,assets/products/sony-ax30/vid-0030-1.jpg,OK,1600x1599
+VID-0031,Sony SR11,assets/products/sony-sr11/vid-0031-1.jpg,OK,800x600
+VID-0032,Sony SR12,assets/products/sony-sr12/vid-0032-1.webp,OK,680x453
+VID-0033,Sony HDR-XR550,assets/products/sony-xr550/vid-0033-1.jpg,OK,1599x1199
+CAM-0056,Sony ZV-E10,assets/products/sony-zv-e10/cam-0056-1.jpg,OK,750x750
+CAM-0057,Sony ZV-E10 II,assets/products/sony-zv-e10-ii/cam-0057-1.jpg,OK,750x750
+CAM-0058,Nikon D800,assets/products/nikon-d800/cam-0058-1.jpg,OK,500x500
+CAM-0059,Panasonic Lumix GH7,assets/products/panasonic-lumix-gh7/cam-0059-1.jpg,OK,750x651
+CAM-0059,Panasonic Lumix GH7,assets/products/panasonic-lumix-gh7/cam-0059-2.webp,OK,1517x1138
+VID-0036,Canon XA70,assets/products/canon-xa70/vid-0036-1.jpg,OK,3000x1950
+VID-0037,Canon XA75,assets/products/canon-xa75/vid-0037-1.jpg,OK,3000x1950
+VID-0038,Sony HDR-XR520V,assets/products/sony-hdr-xr520v/vid-0038-1.png,OK,1267x797

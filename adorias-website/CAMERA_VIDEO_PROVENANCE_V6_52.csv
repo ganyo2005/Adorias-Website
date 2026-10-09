@@ -1,0 +1,62 @@
+﻿SKU,Product,Category,Direct authoritative source,Source URL,Provenance note
+CAM-0001,Canon EOS R,Cameras,NO,,
+CAM-0002,Canon EOS RP,Cameras,YES,https://tst-sfcc-service.canon-europe.com/3380C003/3380C003.html,
+CAM-0003,Canon EOS R50,Cameras,YES,https://sfcc-service.canon-europe.com/5811C003/5811C003.html,
+CAM-0004,Canon EOS R5,Cameras,NO,,
+CAM-0005,Canon EOS R5 Mark II,Cameras,YES,https://sfcc-service.canon-europe.com/6536C006/6536C006.html,
+CAM-0006,Canon EOS R6,Cameras,YES,https://sfcc-service.canon-europe.com/4082C003/4082C003.html,
+CAM-0007,Canon EOS R6 Mark II,Cameras,NO,,
+CAM-0008,Canon EOS 60D,Cameras,NO,,Official Canon discontinued-products index supports model identity; exact technical specifications still require a model-specific Canon manual/specification source.
+CAM-0009,Canon 70D,Cameras,NO,,Official Canon discontinued-products index supports model identity; exact technical specifications still require a model-specific Canon manual/specification source.
+CAM-0010,Canon 6D,Cameras,NO,,Official Canon discontinued-products index supports model identity; exact technical specifications still require a model-specific Canon manual/specification source.
+CAM-0011,Canon EOS 6D Mark II,Cameras,YES,https://www.canon-europe.com/media/EOS_6D_Mark_II_PR_Spec_Sheet_EM_Final_tcm13-1580718.pdf,
+CAM-0012,Canon 7D,Cameras,NO,,Official Canon discontinued-products index supports model identity; exact technical specifications still require a model-specific Canon manual/specification source.
+CAM-0013,Canon 7D Mark II,Cameras,NO,,Official Canon discontinued-products index supports model identity; exact technical specifications still require a model-specific Canon manual/specification source.
+CAM-0014,Canon 5D Mark II,Cameras,NO,,Official Canon discontinued-products index supports model identity; exact technical specifications still require a model-specific Canon manual/specification source.
+CAM-0015,Canon 5D Mark III,Cameras,NO,,Official Canon discontinued-products index supports model identity; exact technical specifications still require a model-specific Canon manual/specification source.
+CAM-0016,Canon EOS 5D Mark IV,Cameras,YES,https://sfcc-service.canon-europe.com/1483C025/1483C025.html,
+CAM-0017,Canon 700D,Cameras,NO,,Official Canon discontinued-products index supports model identity; exact technical specifications still require a model-specific Canon manual/specification source.
+CAM-0018,Canon 600D,Cameras,NO,,Official Canon discontinued-products index supports model identity; exact technical specifications still require a model-specific Canon manual/specification source.
+CAM-0020,Nikon D3100,Cameras,YES,https://www.nikonusa.com/p/d3100/25472/overview,
+CAM-0021,Nikon D3200,Cameras,NO,,
+CAM-0022,Nikon D3300,Cameras,YES,https://www.nikonusa.com/p/d3300/V1532/overview,
+CAM-0023,Nikon D3400,Cameras,NO,,
+CAM-0025,Nikon D5100,Cameras,YES,https://www.nikonusa.com/p/d5100/25476/overview,
+CAM-0026,Nikon D5200,Cameras,YES,https://www.nikonusa.com/p/d5200/1501/overview,
+CAM-0027,Nikon D5300,Cameras,NO,,
+CAM-0028,Nikon D5500,Cameras,YES,https://www.nikonusa.com/p/d5500/1544/overview,
+CAM-0030,Nikon D7000,Cameras,YES,https://www.nikonusa.com/p/d7000/25468/overview,
+CAM-0031,Nikon D7100,Cameras,NO,,
+CAM-0032,Nikon D7200,Cameras,YES,https://www.nikonusa.com/p/d7200/1554/overview,
+CAM-0034,Nikon D750,Cameras,NO,,
+CAM-0037,Nikon Z50,Cameras,YES,https://www.nikonusa.com/p/z-50/1634/overview,
+CAM-0039,Nikon Z5,Cameras,YES,https://www.nikonusa.com/p/z-5/1649/overview,
+CAM-0040,Nikon Z5 II,Cameras,YES,https://www.nikonusa.com/p/z5ii/1688/overview,
+CAM-0041,Nikon Z6,Cameras,YES,https://www.nikonusa.com/p/z-6/1595/overview,
+VID-0001,Canon XA10,Video Cameras,NO,,
+VID-0004,Canon XA20,Video Cameras,NO,,
+VID-0005,Canon XA25,Video Cameras,NO,,
+VID-0006,Canon XA30,Video Cameras,NO,,
+VID-0007,Canon XA35,Video Cameras,NO,,
+VID-0008,Canon XA40,Video Cameras,NO,,
+VID-0009,Canon XA45,Video Cameras,NO,,
+VID-0012,Canon HF G30,Video Cameras,NO,,
+VID-0013,Canon HF G40,Video Cameras,NO,,
+VID-0014,Canon HF G50,Video Cameras,NO,,
+VID-0015,Canon XF105,Video Cameras,NO,,
+VID-0016,Canon XF205,Video Cameras,NO,,
+VID-0019,Sony HXR-NX5 / NX5R,Video Cameras,YES,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/hxr-nx5r,
+VID-0020,Sony HXR-NX70,Video Cameras,NO,,
+VID-0023,Sony PXW-Z90,Video Cameras,YES,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-z90v,
+VID-0024,Sony PXW-Z100,Video Cameras,YES,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-z100,
+VID-0025,Sony PXW-Z150,Video Cameras,YES,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-z150,
+VID-0026,Sony PXW-Z190,Video Cameras,YES,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-z190v,
+VID-0027,Sony PXW-Z200,Video Cameras,YES,https://www.sony.com/electronics/support/professional-camcorders-handheld-camcorders/pxw-z200,
+VID-0028,Sony PXW-Z280,Video Cameras,YES,https://www.sony.com/electronics/support/software/00379238,
+VID-0029,Sony AX35P,Video Cameras,NO,,AX35P naming is regional/ambiguous in the current catalogue. Do not substitute FDR-AXP35 or another AX-series page without confirming the exact stocked model label.
+VID-0030,Sony AX30,Video Cameras,YES,https://www.sony.com/electronics/support/downloads/W0010789,
+VID-0031,Sony SR11,Video Cameras,YES,https://www.sony.com/electronics/support/hard-drive-camcorders-hdr-sr-series/hdr-sr11,
+VID-0032,Sony SR12,Video Cameras,YES,https://www.sony.com/electronics/support/hard-drive-camcorders-hdr-sr-series/hdr-sr12,
+VID-0033,Sony SR550,Video Cameras,YES,https://www.sony.com/electronics/support/hard-drive-camcorders-hdr-xr-series/hdr-xr550,
+VID-0034,Sony SR500,Video Cameras,YES,https://www.sony.com/electronics/support/hard-drive-camcorders-hdr-xr-series/hdr-xr500,
+VID-0035,Sony MC50P,Video Cameras,NO,,

@@ -1,0 +1,23 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');
+process.chdir(require('path').join(__dirname,'..'));
+const ctx={window:{},efiaFindProduct:()=>null};vm.createContext(ctx);
+vm.runInContext(fs.readFileSync('catalogue.js','utf8'),ctx);
+const source=fs.readFileSync('app.js','utf8');
+vm.runInContext(source.slice(source.indexOf('/* V6.73:')),ctx);
+const e=ctx.window.EFIA_MULTI_V673;let passed=0;
+function check(label,fn){e.reset();fn();passed++;console.log('PASS '+label)}
+check('Camera and lighting retained; plain clarification',()=>{let r=e.answer('I need a camera and light set up for my small studio space');assert.deepEqual(Array.from(e.state.categories),['camera','lighting']);assert.match(r,/photos.*videos/);assert.equal(e.state.room,'small studio space');});
+check('Confusion does not become a use case',()=>{e.answer('I need a camera and light set up for my small studio space');const r=e.answer('I DONT UNDERSTAND THIS QUESTION');assert.match(r,/photos of people or products/);assert.equal(e.state.use,'');assert.equal(e.state.pending,'use');});
+check('Whole setup budget and turn memory',()=>{e.answer('I need a camera and lights for a small studio');e.answer('both');assert.match(e.answer('GHS 15000'),/already have/);const r=e.answer('starting from scratch');assert.match(r,/1. Camera/);assert.match(r,/2. Lighting/);assert.match(r,/GHS 15000/);assert.equal(e.state.categories.length,2);});
+check('Three categories answered together',()=>{const r=e.answer('I need a camera, lights and microphones for videos in a small room, GHS 20000, two people, starting from scratch');for(const x of ['Camera','Lighting','Audio'])assert.ok(r.includes(x));});
+check('Separate support power storage categories',()=>{e.answer('I need a tripod, batteries and SD cards');assert.equal(e.state.categories.length,3);});
+check('Printing and backgrounds',()=>{e.answer('I need a printer and backdrops');assert.equal(e.state.categories.length,2);});
+check('Add a category on a later turn',()=>{e.answer('I need a camera and lights');e.answer('also add a microphone');assert.ok(e.state.categories.includes('audio'));});
+check('Remove one category',()=>{e.answer('I need a camera and lights');e.answer('remove lighting');assert.deepEqual(Array.from(e.state.categories),['camera']);});
+check('Reset conversation',()=>{e.answer('camera and lighting');e.answer('start over');assert.equal(e.state,null);});
+check('Standalone remains with previous engine',()=>{assert.equal(e.answer('I need lighting'),null);});
+check('Accessory camera mention is not a body request',()=>{assert.equal(e.answer('I need a camera battery'),null);assert.equal(e.answer('I need a lens for my Canon camera'),null);});
+check('Build request across successive messages',()=>{e.answer('I need a camera');e.answer('also lights');assert.deepEqual(Array.from(e.state.categories),['camera','lighting']);});
+check('Currency kept explicit',()=>{e.answer('camera and lights for video in a small room, USD 2000, starting from scratch');assert.equal(e.state.budget,'USD 2000');});
+check('Upstream routing precedes single-category clarification',()=>{const f=source.slice(source.indexOf('function efiaCatalogueAnswer(q){'));assert.ok(f.indexOf('EFIA_MULTI_V673')<f.indexOf('EFIA_CLARIFY_V672'));});
+console.log(passed+' checks passed');

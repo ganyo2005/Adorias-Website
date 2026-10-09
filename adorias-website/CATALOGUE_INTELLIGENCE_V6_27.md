@@ -1,0 +1,1 @@
+Canon camera intelligence pass: 18/18 records enriched with customer description, key specs, battery, charger/power and use cases. Ask Efia catalogue lookup helper added. Images unchanged.

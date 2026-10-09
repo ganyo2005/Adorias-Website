@@ -1,0 +1,156 @@
+[
+  {
+    "sku": "LEN-0001",
+    "page": "https://asia.canon/en/consumer/ef50mm-f-1-8-stm/main/product",
+    "title": "EF Lenses - EF50mm f/1.8 STM - Canon South & Southeast Asia",
+    "urls": [
+      "https://asia.canon/media/migration/shared/live/products/EN/EF50f1.8stm_b5.png",
+      "https://asia.canon/media/migration/shared/live/products/EN/EF50f1.8stm_b1.png",
+      "https://asia.canon/media/migration/shared/live/products/EN/EF50f1.8stm_b2.png",
+      "https://asia.canon/media/migration/shared/live/products/EN/EF50f1.8stm_b3.png",
+      "https://asia.canon/media/migration/shared/live/products/EN/EF50f1.8stm_b4.png"
+    ],
+    "slug": "ef50mm-f-1-8-stm",
+    "files": [
+      {
+        "path": "assets/products/lenses/ef50mm-f-1-8-stm/len-0001-1.png",
+        "url": "https://asia.canon/media/migration/shared/live/products/EN/EF50f1.8stm_b5.png",
+        "width": 400,
+        "height": 280,
+        "sha256": "eed56ec8fd7bae3851b7b54f4796daa99e2b469bc0481bbab2ab0eb56254aeed"
+      },
+      {
+        "path": "assets/products/lenses/ef50mm-f-1-8-stm/len-0001-2.png",
+        "url": "https://asia.canon/media/migration/shared/live/products/EN/EF50f1.8stm_b1.png",
+        "width": 400,
+        "height": 280,
+        "sha256": "ec2a88852b5ad33678e6d92c6a3e736d858b84c5e2f9808d288082c77b39ec31"
+      },
+      {
+        "path": "assets/products/lenses/ef50mm-f-1-8-stm/len-0001-3.png",
+        "url": "https://asia.canon/media/migration/shared/live/products/EN/EF50f1.8stm_b2.png",
+        "width": 400,
+        "height": 280,
+        "sha256": "7ea315236f5d4e0a3b7c1e56a8617a98cc3ca63b442252fbec23d96611d25ded"
+      },
+      {
+        "path": "assets/products/lenses/ef50mm-f-1-8-stm/len-0001-4.png",
+        "url": "https://asia.canon/media/migration/shared/live/products/EN/EF50f1.8stm_b3.png",
+        "width": 400,
+        "height": 280,
+        "sha256": "4d8faeb70a05354265fd4c6fa45d0398b67d6e2fcf53ae16fbcd590231f4be91"
+      },
+      {
+        "path": "assets/products/lenses/ef50mm-f-1-8-stm/len-0001-5.png",
+        "url": "https://asia.canon/media/migration/shared/live/products/EN/EF50f1.8stm_b4.png",
+        "width": 400,
+        "height": 280,
+        "sha256": "494212655cd328c3006b2be2fb9e991d18cb9cd4f1d73bf062cb376ce47ada4b"
+      }
+    ]
+  },
+  {
+    "sku": "LEN-0009",
+    "page": "https://asia.canon/en/consumer/rf50mm-f-1-8-stm/main/product",
+    "title": "RF Lenses - RF50mm f/1.8 STM - Canon South & Southeast Asia",
+    "urls": [
+      "https://asia.canon/media/image/2020/11/03/057b4fd6aae14236a14658facaf46ad2_RF50mm+f1.8+STM+Slant.png",
+      "https://asia.canon/media/image/2020/11/03/248ca90897aa4dc1b617f4bbda16bbb7_RF50mm+f1.8+STM+Front+Slant+w+Hood.png"
+    ],
+    "slug": "rf50mm-f-1-8-stm",
+    "files": [
+      {
+        "path": "assets/products/lenses/rf50mm-f-1-8-stm/len-0009-1.png",
+        "url": "https://asia.canon/media/image/2020/11/03/057b4fd6aae14236a14658facaf46ad2_RF50mm+f1.8+STM+Slant.png",
+        "width": 362,
+        "height": 320,
+        "sha256": "4f4eae8a551a4849877eb93bcb283fa8b8eec8dcd10f415c1593f05ed0a153a9"
+      },
+      {
+        "path": "assets/products/lenses/rf50mm-f-1-8-stm/len-0009-2.png",
+        "url": "https://asia.canon/media/image/2020/11/03/248ca90897aa4dc1b617f4bbda16bbb7_RF50mm+f1.8+STM+Front+Slant+w+Hood.png",
+        "width": 362,
+        "height": 320,
+        "sha256": "92352c09835cbac03a5470da8a5dbb4992845821bdd5ca94fcd00d341fbc1e77"
+      }
+    ]
+  },
+  {
+    "sku": "LEN-0010",
+    "page": "https://asia.canon/en/consumer/rf85mm-f-2-macro-is-stm/main/product",
+    "title": "RF Lenses - RF85mm f/2 Macro IS STM - Canon South & Southeast Asia",
+    "urls": [
+      "https://asia.canon/media/image/2020/07/04/1f9ef921574247c387500301fdd30cb1_RF85mm+f2+IS+STM_Slant.png",
+      "https://asia.canon/media/image/2020/07/04/f06d47c95c0e48329620692451ca3637_EOS+R6+w+RF85mm+f2+IS+STM.png"
+    ],
+    "slug": "rf85mm-f-2-macro-is-stm",
+    "files": [
+      {
+        "path": "assets/products/lenses/rf85mm-f-2-macro-is-stm/len-0010-1.png",
+        "url": "https://asia.canon/media/image/2020/07/04/1f9ef921574247c387500301fdd30cb1_RF85mm+f2+IS+STM_Slant.png",
+        "width": 362,
+        "height": 320,
+        "sha256": "80a2d4fb19049d3f19ab27cbd37bfa2744abdc39c99609ec684e4125d3b313a6"
+      },
+      {
+        "path": "assets/products/lenses/rf85mm-f-2-macro-is-stm/len-0010-2.png",
+        "url": "https://asia.canon/media/image/2020/07/04/f06d47c95c0e48329620692451ca3637_EOS+R6+w+RF85mm+f2+IS+STM.png",
+        "width": 362,
+        "height": 320,
+        "sha256": "36d70a94af19e290a0e2f5a8d99579250a85fe17e518c57cfbef9cbce20b4e51"
+      }
+    ]
+  },
+  {
+    "sku": "LEN-0011",
+    "page": "https://asia.canon/en/consumer/rf70-200mm-f-2-8l-is-usm/main/product",
+    "title": "RF Lenses - RF70-200mm f/2.8L IS USM - Canon South & Southeast Asia",
+    "urls": [
+      "https://asia.canon/media/image/2019/10/24/8b69b955999c4d509fe950826d756177_RF70-200mm+f2.8L+IS+USM.png"
+    ],
+    "slug": "rf70-200mm-f-2-8l-is-usm",
+    "files": [
+      {
+        "path": "assets/products/lenses/rf70-200mm-f-2-8l-is-usm/len-0011-1.png",
+        "url": "https://asia.canon/media/image/2019/10/24/8b69b955999c4d509fe950826d756177_RF70-200mm+f2.8L+IS+USM.png",
+        "width": 362,
+        "height": 320,
+        "sha256": "8f2f12ab7e507bbca31ad174c8078a5adc4f06391a5150fae471fd1979b60e00"
+      }
+    ]
+  },
+  {
+    "sku": "LEN-0012",
+    "page": "https://asia.canon/en/consumer/rf70-200mm-f-4l-is-usm/main/product",
+    "title": "RF Lenses - RF70-200mm f/4L IS USM - Canon South & Southeast Asia",
+    "urls": [
+      "https://asia.canon/media/image/2020/11/03/5c9846bdb6e64bef9279042a12069990_RF70-200mm+f4L+IS+USM+Slant.png",
+      "https://asia.canon/media/image/2020/11/03/9e1f005cb2a2410f875e6b8c04e7b55c_RF70-200mm+f4L+IS+USM+Side+Extended.png",
+      "https://asia.canon/media/image/2020/11/03/4a417114cec44d4e8b425f502b66c08c_RF70-200mm+f4L+IS+USM+Slant+w+Hood.png"
+    ],
+    "slug": "rf70-200mm-f-4l-is-usm",
+    "files": [
+      {
+        "path": "assets/products/lenses/rf70-200mm-f-4l-is-usm/len-0012-1.png",
+        "url": "https://asia.canon/media/image/2020/11/03/5c9846bdb6e64bef9279042a12069990_RF70-200mm+f4L+IS+USM+Slant.png",
+        "width": 362,
+        "height": 320,
+        "sha256": "35e9bf8bdb3d4160efd3f54486611e91b63fe0818687793e13c75600b32f75c4"
+      },
+      {
+        "path": "assets/products/lenses/rf70-200mm-f-4l-is-usm/len-0012-2.png",
+        "url": "https://asia.canon/media/image/2020/11/03/9e1f005cb2a2410f875e6b8c04e7b55c_RF70-200mm+f4L+IS+USM+Side+Extended.png",
+        "width": 362,
+        "height": 320,
+        "sha256": "a03df39791a8a1df7ca3d96ce64514fbdcfccf090a8139e3374b8f990189e64b"
+      },
+      {
+        "path": "assets/products/lenses/rf70-200mm-f-4l-is-usm/len-0012-3.png",
+        "url": "https://asia.canon/media/image/2020/11/03/4a417114cec44d4e8b425f502b66c08c_RF70-200mm+f4L+IS+USM+Slant+w+Hood.png",
+        "width": 362,
+        "height": 320,
+        "sha256": "b37793f485e61b75c7fc66bc5ad0424ea03633fe7e24e1a570bf1ea346c55776"
+      }
+    ]
+  }
+]

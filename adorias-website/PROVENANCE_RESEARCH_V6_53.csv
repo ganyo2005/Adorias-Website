@@ -1,0 +1,33 @@
+﻿SKU,Product,Direct technical source,Source,Identity source,Confirmation candidate,Note
+CAM-0001,Canon EOS R,YES,https://acc-sfcc-service.canon-europe.com/3075C163/3075C163.html,,,
+CAM-0004,Canon EOS R5,YES,https://tst-sfcc-service.canon-europe.com/4147C005/4147C005.html,,,
+CAM-0007,Canon EOS R6 Mark II,YES,https://sfcc-service.canon-europe.com/5666C004/5666C004.html,,,
+CAM-0008,Canon EOS 60D,NO,,https://sfcc-service.canon-europe.com/discontinued/,,Official Canon discontinued-products index confirms this model identity. A model-specific Canon manual/specification page is still required before marking technical provenance closed.
+CAM-0009,Canon 70D,NO,,https://sfcc-service.canon-europe.com/discontinued/,,Official Canon discontinued-products index confirms this model identity. A model-specific Canon manual/specification page is still required before marking technical provenance closed.
+CAM-0010,Canon 6D,NO,,https://sfcc-service.canon-europe.com/discontinued/,,Official Canon discontinued-products index confirms this model identity. A model-specific Canon manual/specification page is still required before marking technical provenance closed.
+CAM-0012,Canon 7D,NO,,https://sfcc-service.canon-europe.com/discontinued/,,Official Canon discontinued-products index confirms this model identity. A model-specific Canon manual/specification page is still required before marking technical provenance closed.
+CAM-0013,Canon 7D Mark II,NO,,https://sfcc-service.canon-europe.com/discontinued/,,Official Canon discontinued-products index confirms this model identity. A model-specific Canon manual/specification page is still required before marking technical provenance closed.
+CAM-0014,Canon 5D Mark II,NO,,https://sfcc-service.canon-europe.com/discontinued/,,Official Canon discontinued-products index confirms this model identity. A model-specific Canon manual/specification page is still required before marking technical provenance closed.
+CAM-0015,Canon 5D Mark III,NO,,https://sfcc-service.canon-europe.com/discontinued/,,Official Canon discontinued-products index confirms this model identity. A model-specific Canon manual/specification page is still required before marking technical provenance closed.
+CAM-0017,Canon 700D,NO,,https://sfcc-service.canon-europe.com/discontinued/,,Official Canon discontinued-products index confirms this model identity. A model-specific Canon manual/specification page is still required before marking technical provenance closed.
+CAM-0018,Canon 600D,NO,,https://sfcc-service.canon-europe.com/discontinued/,,Official Canon discontinued-products index confirms this model identity. A model-specific Canon manual/specification page is still required before marking technical provenance closed.
+CAM-0021,Nikon D3200,YES,https://www.nikonusa.com/pdf/manuals/dslr/D3200UM_EU%2811%2901.pdf,,,
+CAM-0023,Nikon D3400,YES,https://www.nikonusa.com/p/d3400/V1569/overview,,,
+CAM-0027,Nikon D5300,YES,https://www.nikonusa.com/p/d5300-refurbished/1519B/overview,,,
+CAM-0031,Nikon D7100,YES,https://www.nikonusa.com/p/d7100/1513/overview,,,
+CAM-0034,Nikon D750,YES,https://www.nikonusa.com/p/d750/1543/overview,,,
+VID-0001,Canon XA10,NO,,,,
+VID-0004,Canon XA20,NO,,,,
+VID-0005,Canon XA25,NO,,,,
+VID-0006,Canon XA30,NO,,,,
+VID-0007,Canon XA35,NO,,,,
+VID-0008,Canon XA40,NO,,,,
+VID-0009,Canon XA45,NO,,,,
+VID-0012,Canon HF G30,NO,,,,
+VID-0013,Canon HF G40,NO,,,,
+VID-0014,Canon HF G50,NO,,,,
+VID-0015,Canon XF105,NO,,,,
+VID-0016,Canon XF205,NO,,,,
+VID-0020,Sony HXR-NX70,NO,,,Sony HXR-NX70 — likely regional suffix HXR-NX70P/E/U depending the actual unit/market. Please confirm the exact suffix printed on your stock.,
+VID-0029,Sony AX35P,NO,,,"Sony AX35P — likely a regional Sony AX-series designation, but I will not equate it to FDR-AXP35/FDR-AX35 without your confirmation.",AX35P naming is regional/ambiguous in the current catalogue. Do not substitute FDR-AXP35 or another AX-series page without confirming the exact stocked model label.
+VID-0035,Sony MC50P,NO,,,Sony MC50P — likely HXR-MC50P. Please confirm whether the full model printed on the unit is HXR-MC50P.,
